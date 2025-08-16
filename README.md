@@ -28,6 +28,6 @@ The model is trained on the famous **Iris dataset** and classifies flowers into 
 - ```python web_flask.py```
 
 ## Result
-[Image](https://github.com/Pangorin/iris-prediction/blob/main/images/4.png)
+![Image](https://github.com/Pangorin/iris-prediction/blob/main/images/4.png)
 
 
